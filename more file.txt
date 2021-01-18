@@ -1,3 +1,17 @@
-<<<<<<< HEAD
 add new file 
-=======
+Implemented functional for middleware core.      
+Implemented new future as requirement.      
+Maintained software stack (bugs fixing, incident reports checking).  Research and implement technical: Mapstruct, WireMock      Technical used: Java, Spring Boot, SQL server      
+Team size: 12
+
+Maintain the system(bugs fixing, improving performance)          Implement new funtion with exists framework      
+Create new template, implement code for new notification framework and create job to trigger the notification       
+Analyzing cache loading from database       
+Technical used: Struts2 framework, Java core, Jsp, html/css,  Oracle database       
+Team size: 6
+
+Create UI/UX and implement new function with requirement of customer      
+Build elastich search for application      
+Research futures for improving performance      
+Technical used: Mendix low code plaform,Java,Spring boot
+Team size: 6
